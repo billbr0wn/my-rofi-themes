@@ -17,6 +17,7 @@
 
 window {
     location:       center;
+    //location:       north;//top position 
     width:          680;
     height:         800;
     border-radius:  20px;
