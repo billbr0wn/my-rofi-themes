@@ -1,0 +1,19 @@
+configuration {
+
+  modes: [ combi ];
+
+
+  combi-modes: [ window, drun, run ];
+}
+
+@theme "rounded-gray-dark.rasi"
+
+element {
+
+  orientation: horizontal;
+
+
+  children: [ element-text, element-icon ];
+
+  spacing: 5px;
+}
